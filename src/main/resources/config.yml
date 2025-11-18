@@ -1,0 +1,25 @@
+# PlayerAreaEvent 配置文件
+# 作者: GalaxyPokemon
+
+# 插件设置
+settings:
+  # 是否启用调试模式
+  debug: false
+  
+  # 检测间隔（tick）
+  check-interval: 1
+  
+  # 是否在玩家进入区域时显示消息
+  show-enter-message: true
+  
+  # 是否在玩家离开区域时显示消息
+  show-leave-message: true
+
+# 性能设置
+performance:
+  # 是否启用异步检测
+  async-check: true
+  
+  # 最大检测距离（超过此距离的区域不会被检测）
+  max-check-distance: 500
+

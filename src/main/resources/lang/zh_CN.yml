@@ -1,0 +1,23 @@
+# PlayerAreaEvent 中文语言文件
+
+# 命令消息
+command:
+  reload: "&a[PlayerAreaEvent] &f重载完成！"
+  no-permission: "&c你没有权限执行此命令"
+  player-only: "&c此命令只能由玩家执行"
+  area-not-found: "&c区域不存在: {0}"
+
+# 区域消息
+area:
+  enter: "&a进入区域: &f{0}"
+  leave: "&c离开区域: &f{0}"
+  no-permission: "&c你没有权限进入此区域"
+
+# 标志消息
+flag:
+  pvp-disabled: "&c此区域禁止PVP"
+  block-break-disabled: "&c此区域禁止破坏方块"
+  block-place-disabled: "&c此区域禁止放置方块"
+  item-drop-disabled: "&c此区域禁止丢弃物品"
+  item-pickup-disabled: "&c此区域禁止拾取物品"
+
